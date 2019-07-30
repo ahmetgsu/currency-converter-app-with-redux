@@ -3,6 +3,7 @@
 What this project is about to create an currency converter app which first lets user to convert currencies and then to see his/her user currency account balance and finally to buy selected currecies. This is Redux added version of [currency-converter-app](https://github.com/ahmetgsu/currency-converter-app).
 
 ![screenshot](./src/images/currency-converter.png)
+![screenshot2](./src/images/curr-converter.gif)
 
 ## Table of contents:
 
